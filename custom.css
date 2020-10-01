@@ -1,0 +1,30 @@
+body {
+  background: url('header_bg.jpeg');
+}
+
+.intro, .main, .sidebar, header {
+  border-radius: 4px;
+}
+
+.main {
+  float: right;
+  width: 70%;
+  background: #DAF7A6;
+  padding: 8px 16px;
+}
+
+.sidebar {
+  float: left;
+  width: 20%;
+  background-color: #85C1E9;
+  padding: 8px 16px;
+}
+
+header {
+  /* background: url('header_bg.jpeg') center; */
+  /* height: 280px; */
+}
+
+header h2 {
+  /* background-color: #8E44AD; */
+}
